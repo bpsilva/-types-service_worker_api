@@ -1,0 +1,77 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "@types/service_worker_api",
+        "scope": "@types",
+        "escapedName": "@types%2fservice_worker_api",
+        "name": "@types/service_worker_api",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/Users/bruno/Desktop/projects/sc-web"
+    ]
+  ],
+  "_from": "@types/service_worker_api@latest",
+  "_inCache": true,
+  "_location": "/@types/service_worker_api",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/service_worker_api-0.0.9.tgz_1488407673173_0.5769494166597724"
+  },
+  "_npmUser": {
+    "name": "types",
+    "email": "ts-npm-types@microsoft.com"
+  },
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "@types/service_worker_api",
+    "scope": "@types",
+    "escapedName": "@types%2fservice_worker_api",
+    "name": "@types/service_worker_api",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@types/service_worker_api/-/service_worker_api-0.0.9.tgz",
+  "_shasum": "7269ff2fa0e27e23a38a22e8909534f63823dee8",
+  "_shrinkwrap": null,
+  "_spec": "@types/service_worker_api",
+  "_where": "/Users/bruno/Desktop/projects/sc-web",
+  "contributors": [
+    "Tristan Caron (https://github.com/tristancaron)"
+  ],
+  "dependencies": {
+    "@types/whatwg-fetch": "*"
+  },
+  "deprecated": "ServiceWorker types are now provided by '--lib dom'",
+  "description": "TypeScript definitions for service_worker_api",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "7269ff2fa0e27e23a38a22e8909534f63823dee8",
+    "tarball": "https://registry.npmjs.org/@types/service_worker_api/-/service_worker_api-0.0.9.tgz"
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    "types <ts-npm-types@microsoft.com>"
+  ],
+  "name": "@types/service_worker_api_townsq",
+  "optionalDependencies": {},
+  "peerDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+  },
+  "scripts": {},
+  "typeScriptVersion": "2.1",
+  "typesPublisherContentHash": "80d88b11dcaad2bd44a45472be5951278c7aed79a9c138dc94caac4690f68115",
+  "version": "0.0.9",
+  "author": ""
+}
